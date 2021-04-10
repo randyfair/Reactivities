@@ -42,7 +42,7 @@ namespace Persistence
                     Date = DateTime.Now.AddMonths(+1),
                     Description = "Guest Speaker: Elwanda McKane",
                     Category = "Adult Gatherings",
-                    Sponsor = "Lenoir City Church of christ",
+                    Sponsor = "Lenoir City Church of Christ",
                     POC = "Ethyl McClintoc",
 					City = "Knoxville",
 					Venue = "Hyatt Regency"
