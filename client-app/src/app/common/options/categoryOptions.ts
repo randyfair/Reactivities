@@ -4,5 +4,7 @@ export const categoryOptions = [
     {text: 'Information', value: 'info'},
     {text: 'Youth Devo', value: 'devo'},
     {text: 'Singing', value: 'singing'},
-    {text: 'Ladies Meetings', value: 'ladies'}
+    {text: "Men's Meetings", value: 'mens'},
+    {text: 'Ladies Meetings', value: 'ladies'},
+    {text: 'Fellowship', value: 'fellowship'}
 ]
